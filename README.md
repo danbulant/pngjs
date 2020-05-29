@@ -2,7 +2,9 @@
 
 # pngjs
 
-Simple PNG encoder/decoder for Node.js with no dependencies.
+*This is a fork of pngjs to make it work with deno*
+
+Simple PNG encoder/decoder for ~~Node.js~~ Deno with no dependencies.
 
 Based on the original [pngjs](https://github.com/niegowski/node-pngjs) with the follow enhancements.
 
